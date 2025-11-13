@@ -37,29 +37,11 @@ APPARATUS REQUIRED:
 	
 
 ## Direct connection: 
-CIRCUIT DIAGRAM: 
 
-<img width="893" height="488" alt="image" src="https://github.com/user-attachments/assets/a0c3bdb5-8609-4e2b-bbf0-7a8329ad45ac" />
+![WhatsApp Image 2025-11-13 at 11 33 20_7fe64111](https://github.com/user-attachments/assets/68c49a15-ea2c-4521-bf6d-1b8264cca566)
+![WhatsApp Image 2025-11-13 at 11 33 20_33d93818](https://github.com/user-attachments/assets/5cb0fabe-fee1-4265-a628-a61daf210e04)
+![WhatsApp Image 2025-11-13 at 11 33 20_ad0c33af](https://github.com/user-attachments/assets/58ae6c81-5caf-42ce-bf9e-5e50008974c6)
 
-
-Tabulation:1
-
-<img width="572" height="283" alt="image" src="https://github.com/user-attachments/assets/936788ca-d888-4fd7-b66b-78b043bdd116" />
-
-<img width="1488" height="845" alt="Screenshot 2025-09-29 140552" src="https://github.com/user-attachments/assets/1f9f4408-51ec-497e-84e7-586135afdb74" />
-
-
-	
-## Cross connection:
-CIRCUIT DIAGRAM:
-<img width="947" height="529" alt="image" src="https://github.com/user-attachments/assets/c0814066-f805-437b-8ec7-bbe3c6de5c1c" />
-
-
-Tabulation:2
-
-<img width="546" height="268" alt="image" src="https://github.com/user-attachments/assets/66877f61-6f8c-4f35-964e-d25f94df5c37" />
-
-<img width="1476" height="835" alt="Screenshot 2025-09-29 140650" src="https://github.com/user-attachments/assets/b38b39bd-e127-4a09-a6f3-be6d695cbda8" />
 
 
 ## RESULT:
